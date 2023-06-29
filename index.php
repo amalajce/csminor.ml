@@ -5,21 +5,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CS-Minor : Cyber Security Minor | MCA, AJCE</title>
+    <title>CyberDemo - Cyber-Security Demonstration | MCA, AJCE</title>
 
     <!-- Meta SEO -->
-    <meta name="title" content="CS-Minor : Cyber Security Minor | MCA, AJCE">
-    <meta name="description" content="Practically Learn Cyber Security with CS-Minor by MCA, AJCE">
+    <meta name="title" content="CyberDemo : Cyber Security Minor | MCA, AJCE">
+    <meta name="description" content="Practically Learn Cyber Security with CyberDemo by MCA, AJCE">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
-    <meta name="author" content="CS-Minor">
+    <meta name="author" content="CyberDemo">
 
     <!-- Social media share -->
-    <meta property="og:title" content="CS-Minor : Cyber Security Minor | MCA, AJCE">
-    <meta property="og:site_name" content="CS-Minor">
+    <meta property="og:title" content="CyberDemo : Cyber Security Minor | MCA, AJCE">
+    <meta property="og:site_name" content="CyberDemo">
     <meta property="og:url" content="https://csminor.ml"/>
-    <meta property="og:description" content="Practically Learn Cyber Security with CS-Minor by MCA, AJCE">
+    <meta property="og:description" content="Practically Learn Cyber Security with CyberDemo by MCA, AJCE">
     <meta property="og:type" content="website">
     <meta property="og:image" content=https://csminor.ml/images/logo.png>
     <meta name="twitter:card" content="summary" />
@@ -46,8 +46,8 @@
         <nav class="bg-white border-gray-200 py-2.5 dark:bg-gray-900">
             <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a class="flex items-center">
-                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CS-Minor Logo" />
-                    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">CS-Minor</span>
+                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CyberDemo Logo" />
+                    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">CyberDemo</span>
                 </a>
                 <div class="flex items-center lg:order-2">
                     <!-- <a href="#" class="text-gray-800 dark:text-white hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-gray-800">Log in</a> -->
@@ -61,8 +61,9 @@
     <section class="bg-white dark:bg-gray-900">
         <div class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
             <div class="mr-auto place-self-center lg:col-span-7">
-                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">CS-Minor<br>Cyber Security</h1>
-                <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">A minor course conducted as part of OBE (Outcome Based Education) by <a href="https://www.ajce.in/mca" class="hover:underline">MCA</a> Department, <a href="https://www.ajce.in" class="hover:underline">Amal Jyothi College of Engineering</a>.</p>
+                <h1 class="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">CyberDemo</h1>
+                <!--<h3 style="font-weight:bold;font-size:23px">MCA, Amal Jyothi</h3>-->
+                <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">An introductory course conducted as part of OBE (Outcome Based Education) by <a href="https://www.ajce.in/mca" class="hover:underline"><b>MCA Department</b></a>, <a href="https://www.ajce.in" class="hover:underline"><b>Amal Jyothi College of Engineering</b></a>.</p>
        
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
@@ -97,10 +98,10 @@
             <!-- <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"> -->
             <div class="text-center">
                 <a href="#" class="flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
-                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CS-Minor Logo" />
-                    CS-Minor    
+                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CyberDemo Logo" />
+                    CyberDemo    
                 </a>
-                <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2022 CS-Minor. All Rights Reserved.</a>.
+                <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© <?= date('Y') ?> CyberDemo. All Rights Reserved.</a>.
                 </span>
             </div>
         </div>

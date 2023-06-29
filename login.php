@@ -30,7 +30,7 @@
 
 <html lang="en">
 <head>
-   <title>Login @ CS-Minor : Cyber Security Minor | MCA, AJCE</title>
+   <title>Login @ CyberDemo : Cyber Security Minor | MCA, AJCE</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="css/output.css">
@@ -56,8 +56,8 @@
         <nav class="bg-white border-gray-200 py-2.5 dark:bg-gray-900">
             <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a class="flex items-center">
-                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CS-Minor Logo" />
-                    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">CS-Minor</span>
+                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CyberDemo Logo" />
+                    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">CyberDemo</span>
                 </a>
                 <div class="flex items-center lg:order-2">
                     <!-- <a href="#" class="text-gray-800 dark:text-white hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-gray-800">Log in</a> -->
@@ -99,10 +99,10 @@
             <!-- <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"> -->
             <div class="text-center">
                 <a href="#" class="flex items-center justify-center mb-1 text-2xl font-semibold text-gray-900 dark:text-white">
-                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CS-Minor Logo" />
-                    CS-Minor    
+                    <img src="./images/logo.png" class="h-6 mr-3 sm:h-9" alt="CyberDemo Logo" />
+                    CyberDemo    
                 </a>
-                <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2022 CS-Minor. All Rights Reserved.</a>.
+                <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© <?= date('Y') ?> CyberDemo. All Rights Reserved.</a>.
                 </span>
             </div>
         </div>
